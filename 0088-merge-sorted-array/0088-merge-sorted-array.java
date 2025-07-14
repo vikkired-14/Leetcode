@@ -11,9 +11,7 @@ class Solution {
              nums1[idx--] = nums2[right--];
         }
       }
-      while(left>=0){
-         nums1[idx--] = nums1[left--];
-      }
+      
       while(right>=0){
          nums1[idx--] = nums2[right--];
       }
