@@ -9,6 +9,7 @@ LeetCode problems
 | [0001-two-sum](https://github.com/vikkired-14/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vikkired-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/vikkired-14/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -24,9 +25,14 @@ LeetCode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikkired-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vikkired-14/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikkired-14/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
