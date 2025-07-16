@@ -15,6 +15,7 @@ LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikkired-14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikkired-14/Leetcode/tree/master/0283-move-zeroes) |
+| [0978-valid-mountain-array](https://github.com/vikkired-14/Leetcode/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
