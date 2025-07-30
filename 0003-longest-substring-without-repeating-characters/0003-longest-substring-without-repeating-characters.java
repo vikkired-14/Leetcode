@@ -8,10 +8,9 @@ class Solution {
             if(cache.containsKey(ch)){
                 left = Math.max(left,cache.get(ch) +1);
             }
-                maxLen = Math.max(right-left+1,maxLen);
-            
+            maxLen = Math.max(right-left+1,maxLen);
             cache.put(ch,right++);
         }
-        return left==0 ? s.length():maxLen;
+        return maxLen;
     }
 }
