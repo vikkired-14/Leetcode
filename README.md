@@ -29,6 +29,7 @@ LeetCode problems
 | [0001-two-sum](https://github.com/vikkired-14/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -86,12 +87,14 @@ LeetCode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikkired-14/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
