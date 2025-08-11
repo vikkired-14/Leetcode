@@ -6,11 +6,11 @@ class Solution {
             if(!seen.containsKey(n)){
                 int left = seen.getOrDefault(n-1,0);
                 int right = seen.getOrDefault(n+1,0);
-                int length = left+right+1;
-                seen.put(n-left,length);
-                seen.put(n+right,length);
-                seen.put(n,length);
-                maxLen = Math.max(maxLen,length);
+                int len = left + right + 1;
+                seen.put(n-left,len);
+                seen.put(n+right,len);
+                seen.put(n,len);
+                maxLen = Math.max(maxLen,len);
             }
         }
         return maxLen;
