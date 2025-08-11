@@ -14,6 +14,7 @@ LeetCode problems
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikkired-14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/vikkired-14/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,4 +116,8 @@ LeetCode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vikkired-14/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
