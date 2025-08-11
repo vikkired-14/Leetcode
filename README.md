@@ -11,6 +11,7 @@ LeetCode problems
 | [0015-3sum](https://github.com/vikkired-14/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikkired-14/Leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ LeetCode problems
 | ------- |
 | [0001-two-sum](https://github.com/vikkired-14/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +64,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vikkired-14/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 ## Math
@@ -93,6 +96,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
