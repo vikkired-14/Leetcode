@@ -35,6 +35,7 @@ LeetCode problems
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@ LeetCode problems
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ LeetCode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
