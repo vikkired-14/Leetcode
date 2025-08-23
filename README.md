@@ -27,6 +27,7 @@ LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikkired-14/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/vikkired-14/Leetcode/tree/master/0978-valid-mountain-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -150,8 +151,13 @@ LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
