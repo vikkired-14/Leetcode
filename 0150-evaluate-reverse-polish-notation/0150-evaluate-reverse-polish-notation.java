@@ -3,7 +3,7 @@ class Solution {
         
         Stack<Integer> st = new Stack<>();
         for(String str :tokens){
-            if(isInteger(str)){
+            if(!isOperator(str)){
                 st.push(Integer.parseInt(str));
             }else{
                 int a = st.pop();
@@ -22,13 +22,7 @@ class Solution {
         return st.pop();
     }
 
-    public boolean isInteger(String str){
-        try{
-            Integer.parseInt(str);
-            return true;
-        }
-        catch(Exception e){
-            return false;
-        }
+     private boolean isOperator(String s) {
+        return s.length() == 1 && "+-*/".contains(s);
     }
 }
