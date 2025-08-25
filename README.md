@@ -16,6 +16,7 @@ LeetCode problems
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikkired-14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@ LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -150,6 +152,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
