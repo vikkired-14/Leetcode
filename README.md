@@ -69,6 +69,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikkired-14/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ LeetCode problems
 | [0020-valid-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -157,6 +159,7 @@ LeetCode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
@@ -167,6 +170,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
