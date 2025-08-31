@@ -29,6 +29,7 @@ LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikkired-14/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/vikkired-14/Leetcode/tree/master/0978-valid-mountain-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -156,6 +157,7 @@ LeetCode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -166,4 +168,8 @@ LeetCode problems
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
