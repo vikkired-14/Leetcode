@@ -31,6 +31,7 @@ LeetCode problems
 | [0724-find-pivot-index](https://github.com/vikkired-14/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/vikkired-14/Leetcode/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/vikkired-14/Leetcode/tree/master/0978-valid-mountain-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -90,6 +91,7 @@ LeetCode problems
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikkired-14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikkired-14/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/vikkired-14/Leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
