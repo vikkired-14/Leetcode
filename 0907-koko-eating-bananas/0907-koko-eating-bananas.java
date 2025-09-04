@@ -18,8 +18,8 @@ class Solution {
         
         int hour=0 ;
         for(int pile:piles){
-         // hour += (pile +k-1)/k ;// ceiling division
-         hour += (int) Math.ceil((double) pile / k);
+         hour += (pile +k-1)/k ;// ceiling division
+         //hour += (int) Math.ceil((double) pile / k);
           if(hour>h) return false;
         }
         return hour<= h;
