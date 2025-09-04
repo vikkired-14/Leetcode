@@ -31,6 +31,6 @@ class Solution {
            if(count>days) return false;
 
         }
-        return count<=days;
+        return true;
     }
 }
