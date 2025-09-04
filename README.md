@@ -36,6 +36,7 @@ LeetCode problems
 | [0792-binary-search](https://github.com/vikkired-14/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vikkired-14/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/vikkired-14/Leetcode/tree/master/0978-valid-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vikkired-14/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ LeetCode problems
 | [0209-minimum-size-subarray-sum](https://github.com/vikkired-14/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/vikkired-14/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vikkired-14/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vikkired-14/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
