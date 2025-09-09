@@ -16,6 +16,7 @@ LeetCode problems
 | [0035-search-insert-position](https://github.com/vikkired-14/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,4 +192,12 @@ LeetCode problems
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
