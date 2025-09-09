@@ -19,6 +19,7 @@ LeetCode problems
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vikkired-14/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -196,8 +197,10 @@ LeetCode problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
