@@ -64,6 +64,7 @@ LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -134,6 +135,7 @@ LeetCode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikkired-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
@@ -200,6 +202,7 @@ LeetCode problems
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vikkired-14/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vikkired-14/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vikkired-14/Leetcode/tree/master/0046-permutations) |
