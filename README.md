@@ -21,6 +21,7 @@ LeetCode problems
 | [0051-n-queens](https://github.com/vikkired-14/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikkired-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vikkired-14/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
@@ -137,6 +138,7 @@ LeetCode problems
 | [0020-valid-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vikkired-14/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -208,10 +210,19 @@ LeetCode problems
 | [0046-permutations](https://github.com/vikkired-14/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vikkired-14/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vikkired-14/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vikkired-14/Leetcode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
