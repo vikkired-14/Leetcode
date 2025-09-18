@@ -23,7 +23,7 @@ class Solution {
             int nC = d[1] + j;
             
             if(backTrack(nR,nC,board,word,idx+1)){
-                //  board[i][j] = temp;
+                 board[i][j] = temp;
                  return true;
             }
         }
