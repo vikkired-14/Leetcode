@@ -231,4 +231,12 @@ LeetCode problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vikkired-14/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vikkired-14/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
