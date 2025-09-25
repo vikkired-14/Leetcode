@@ -14,11 +14,10 @@ class Solution {
         tail.next = head;
         ListNode p1 = tail;
         ListNode p2 = tail;
-        while(n!=0){
+        for(int i=0;i<=n;i++){
             p1 = p1.next;
-            n--;
         }
-        while(p1!=null && p1.next!=null){
+        while(p1!=null){
              p1 = p1.next;
              p2 = p2.next;
         }
