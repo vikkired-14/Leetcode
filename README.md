@@ -235,6 +235,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vikkired-14/Leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vikkired-14/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -256,4 +257,16 @@ LeetCode problems
 | [0021-merge-two-sorted-lists](https://github.com/vikkired-14/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/vikkired-14/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vikkired-14/Leetcode/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vikkired-14/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vikkired-14/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vikkired-14/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
