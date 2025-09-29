@@ -22,8 +22,8 @@ class Solution {
     public TreeNode helper(TreeNode root){
         if(root==null)
           return root;
-        TreeNode right = helper(root.right);
         TreeNode left = helper(root.left);
+        TreeNode right = helper(root.right);
         root.left = right;
         root.right = left;
         return root;  
