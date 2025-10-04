@@ -91,6 +91,7 @@ LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikkired-14/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikkired-14/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@ LeetCode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/vikkired-14/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vikkired-14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
@@ -182,6 +184,7 @@ LeetCode problems
 | [0023-merge-k-sorted-lists](https://github.com/vikkired-14/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikkired-14/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vikkired-14/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
@@ -215,6 +218,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikkired-14/Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,4 +335,8 @@ LeetCode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikkired-14/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
