@@ -41,6 +41,7 @@ LeetCode problems
 | [0283-move-zeroes](https://github.com/vikkired-14/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/vikkired-14/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vikkired-14/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vikkired-14/Leetcode/tree/master/0739-daily-temperatures) |
@@ -68,6 +69,7 @@ LeetCode problems
 | [0424-longest-repeating-character-replacement](https://github.com/vikkired-14/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikkired-14/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikkired-14/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikkired-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ LeetCode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikkired-14/Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/vikkired-14/Leetcode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ LeetCode problems
 | [0242-valid-anagram](https://github.com/vikkired-14/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +155,7 @@ LeetCode problems
 | ------- |
 | [0169-majority-element](https://github.com/vikkired-14/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -186,6 +191,7 @@ LeetCode problems
 | [0239-sliding-window-maximum](https://github.com/vikkired-14/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vikkired-14/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vikkired-14/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vikkired-14/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
