@@ -30,4 +30,34 @@ class Solution {
         }
         return time;
     }
+
+    /*
+    class Solution {
+    public int leastInterval(char[] tasks, int n) {
+        int[] freq = new int[26];
+        for(char c : tasks) {
+            freq[c - 'A']++;
+        }
+        
+        // find max frequency
+        int maxFreq = 0;
+        for(int f : freq) {
+            maxFreq = Math.max(maxFreq, f);
+        }
+        
+        // count how many tasks have this max frequency
+        int countMax = 0;
+        for(int f : freq) {
+            if(f == maxFreq) countMax++;
+        }
+        
+        // formula
+        int partCount = (maxFreq - 1) * (n + 1) + countMax;
+        
+        // answer is the max of partCount and total tasks
+        return Math.max(tasks.length, partCount);
+    }
+}
+
+    */
 }
