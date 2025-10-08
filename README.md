@@ -80,6 +80,7 @@ LeetCode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/vikkired-14/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vikkired-14/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vikkired-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikkired-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vikkired-14/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
@@ -122,6 +123,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikkired-14/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/vikkired-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikkired-14/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vikkired-14/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -371,4 +373,8 @@ LeetCode problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vikkired-14/Leetcode/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vikkired-14/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
