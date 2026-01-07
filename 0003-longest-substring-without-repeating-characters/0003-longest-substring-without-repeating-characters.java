@@ -6,9 +6,9 @@ class Solution {
         for(int right=0;right<s.length();right++){
             char ch = s.charAt(right);
             if(cache.containsKey(ch)){
-             maxLen = Math.max(maxLen,right-left);
-             left = cache.get(ch)+1;
+             left = Math.max(left,cache.get(ch)+1);
             }
+            maxLen = Math.max(maxLen,right-left+1);
             cache.put(ch,right);
         }
 
